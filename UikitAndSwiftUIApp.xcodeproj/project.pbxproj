@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		26BB75D22D5F8C9B005CC94A /* UikitAndSwiftUIApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UikitAndSwiftUIApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		26BB76432D5F90AB005CC94A /* UikitAndSwiftUIApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = UikitAndSwiftUIApp.app; path = "/Users/dmitriyeliseev/Desktop/ Обучение Swift/Группа SUI телеграмм/Вопросы к собеседованию/Solvery/Менторство с Артуром И - День 9 (11.02.2025)/UikitAndSwiftUIApp/build/Debug-iphoneos/UikitAndSwiftUIApp.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
 		26BB75E42D5F8C9C005CC94A /* Exceptions for "UikitAndSwiftUIApp" folder in "UikitAndSwiftUIApp" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				AssetsFolder/Info.plist,
 			);
 			target = 26BB75D12D5F8C9B005CC94A /* UikitAndSwiftUIApp */;
 		};
@@ -46,16 +46,7 @@
 			isa = PBXGroup;
 			children = (
 				26BB75D42D5F8C9B005CC94A /* UikitAndSwiftUIApp */,
-				26BB75D32D5F8C9B005CC94A /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		26BB75D32D5F8C9B005CC94A /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				26BB75D22D5F8C9B005CC94A /* UikitAndSwiftUIApp.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -80,7 +71,7 @@
 			packageProductDependencies = (
 			);
 			productName = UikitAndSwiftUIApp;
-			productReference = 26BB75D22D5F8C9B005CC94A /* UikitAndSwiftUIApp.app */;
+			productReference = 26BB76432D5F90AB005CC94A /* UikitAndSwiftUIApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -108,7 +99,7 @@
 			mainGroup = 26BB75C92D5F8C9B005CC94A;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 26BB75D32D5F8C9B005CC94A /* Products */;
+			productRefGroup = 26BB75C92D5F8C9B005CC94A;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -147,10 +138,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = LT54Q8Z33F;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = UikitAndSwiftUIApp/Info.plist;
+				INFOPLIST_FILE = UikitAndSwiftUIApp/AssetsFolder/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -175,10 +165,9 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = LT54Q8Z33F;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = UikitAndSwiftUIApp/Info.plist;
+				INFOPLIST_FILE = UikitAndSwiftUIApp/AssetsFolder/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
