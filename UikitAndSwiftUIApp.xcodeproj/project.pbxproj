@@ -12,7 +12,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		26BB76492D5F9211005CC94A /* UikitAndSwiftUIApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = UikitAndSwiftUIApp.app; path = "/Users/dmitriyeliseev/Desktop/ Обучение Swift/Группа SUI телеграмм/Вопросы к собеседованию/Solvery/Менторство с Артуром И - День 9 (11.02.2025)/UikitAndSwiftUIApp/build/Debug-iphoneos/UikitAndSwiftUIApp.app"; sourceTree = "<absolute>"; };
+		26EF0E0C2D60B3CB0011EC0A /* UikitAndSwiftUIApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UikitAndSwiftUIApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -53,6 +53,7 @@
 			isa = PBXGroup;
 			children = (
 				26BB75D42D5F8C9B005CC94A /* UikitAndSwiftUIApp */,
+				26EF0E0C2D60B3CB0011EC0A /* UikitAndSwiftUIApp.app */,
 			);
 			sourceTree = "<group>";
 		};
@@ -80,7 +81,7 @@
 				26BB76562D5F97BC005CC94A /* SnapKit */,
 			);
 			productName = UikitAndSwiftUIApp;
-			productReference = 26BB76492D5F9211005CC94A /* UikitAndSwiftUIApp.app */;
+			productReference = 26EF0E0C2D60B3CB0011EC0A /* UikitAndSwiftUIApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */

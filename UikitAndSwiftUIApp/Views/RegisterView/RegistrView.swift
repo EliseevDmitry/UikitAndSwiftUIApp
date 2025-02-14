@@ -20,7 +20,9 @@ class RegistrView: UIViewController, IRegistView {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let contentView = RegistViewContent() //SUI View
+        let contentView = RegistViewContent { getString in
+            print(getString)
+        }//SUI View
         let content = UIHostingController(rootView: contentView)
         //addChild(content)
         content.view.frame = view.frame
